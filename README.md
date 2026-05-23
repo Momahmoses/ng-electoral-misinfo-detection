@@ -1,6 +1,6 @@
-# 🗳️ Electoral Misinformation Detection — Nigeria
+# Electoral Misinformation Detection, Nigeria
 
-> Multi-modal AI system detecting audio deepfakes, fabricated INEC documents, and fake news text in Nigerian English, Pidgin, Yoruba, Hausa, and Igbo — built for INEC, fact-checkers, and civil society ahead of Nigeria's election cycles. Trained on actual 2023 election misinformation patterns.
+> Multi-modal AI system detecting audio deepfakes, fabricated INEC documents, and fake news text in Nigerian English, Pidgin, Yoruba, Hausa, and Igbo, built for INEC, fact-checkers, and civil society ahead of Nigeria's election cycles. Trained on actual 2023 election misinformation patterns.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1-orange.svg)](https://pytorch.org)
@@ -47,7 +47,7 @@ No real-time detection system existed for Nigerian electoral context. The result
 
 - **INEC**: Automated monitoring of social media mentions of INEC + real-time forgery alerts
 - **Dubawa / AFP Nigeria**: API endpoint for submitting content for fact-check triage
-- **WhatsApp bot**: Public submission — forward suspicious message → verdict in < 60 seconds
+- **WhatsApp bot**: Public submission, forward suspicious message → verdict in < 60 seconds
 - **Election observers** (EU, AU, ECOWAS): Real-time misinfo dashboard during voting
 
 ---
